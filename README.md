@@ -1,5 +1,9 @@
-# Hashnode-source-from-github-template
-A template with boilerplate structure for Hashnode's Github as source feature
+# Creative Lightbox Articles
+A Repository of all my published Blog posts
+#### By _**Josh Hortt**_
+version: 05/11/2022
+## My Blog 🎧 🔊 | [Live Link](https://creativelightbox.net/)
+### A template with boilerplate structure for Hashnode's Github as source feature
 
 Please note: A **README.md** at the root is always ignored.
 
