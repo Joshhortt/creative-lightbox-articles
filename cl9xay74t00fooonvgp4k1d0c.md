@@ -1,5 +1,11 @@
-# Why headless CMS is a better option?
-
+---
+title: Why headless CMS is a better option?
+subtitle: A headless CMS is a back-end-only content management system.
+slug: why-headless-cms-is-a-better-option
+tags: headless, cms, graphql, nextjs, security
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1667667502089/u32DdUOvU.png?auto=compress
+domain: creativelightbox.net
+---
 ## What is Headless CMS?
 Aside from having the coolest-sounding name in all of the technology, a headless CMS is a back-end-only content management system. That back-end acts as a content repository for all of the solution’s content that gets distributed to multiple front-end systems.
 
@@ -41,8 +47,7 @@ The same logic applies to CMS platforms. There are tons of excellent content man
 In either case, the place to focus your custom development dollars is on the user experience that sets you apart from your competition. So, when you need content management, simply select a headless CMS, plug it into the overall architecture, build a custom front-end, and call on the APIs that the CMS exposes for you.
 
 ## Headless CMS in Action — PHONIX
-Phonix allows anyone to purchase Hardware products. It consists of two separate components: a public-facing e-commerce website and a decoupled content management system (CMS) itself.
-
+[Phonix](https://ecommerce-shop-f1na-qka25av2j-joshhortt.vercel.app/) Phonix allows anyone to purchase Hardware products. It consists of two separate components: a public-facing e-commerce website and a decoupled content management system (CMS) itself.
 
 ![phonix_full - sm.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667249840543/Fjzvnanir.png align="left")
 
@@ -54,5 +59,5 @@ This seamlessness is impossible without a headless CMS. It truly unlocks your co
 ## Final Thoughts
 A headless CMS differs significantly from the traditional CMS approach and offers a lot of great benefits. Since headless CMSs don’t rely on one content delivery method, they offer a ton of flexibility. They also provide the benefit of keeping all of your content in one centralized content hub.
 
-In our experience, headless CMS helps many clients deliver a consistent content experience to their users no matter where they’re viewing it. Whenever appropriate, we help them find the right headless CMS to use and implement it so that content publishing is a breeze for them in the future.
+In my experience, headless CMS helps many clients deliver a consistent content experience to their users no matter where they’re viewing it. Whenever appropriate, we help them find the right headless CMS to use and implement it so that content publishing is a breeze for them in the future.
 
