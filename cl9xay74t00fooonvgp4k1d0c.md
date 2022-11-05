@@ -51,7 +51,7 @@ In either case, the place to focus your custom development dollars is on the use
 
 [Phonix](https://ecommerce-shop-f1na-qka25av2j-joshhortt.vercel.app/) Phonix allows anyone to purchase Hardware products. It consists of two separate components: a public-facing e-commerce website and a decoupled content management system (CMS) itself.
 
-![phonix\_full - sm.png](<https://cdn.hashnode.com/res/hashnode/image/upload/v1667249840543/Fjzvnanir.png> align="left")
+![phonix_full_sm-min.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667669939857/3oTjS9AsD.png?auto=compress)
 
 ### Overview of PHONIX e-commerce store
 
