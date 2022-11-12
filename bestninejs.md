@@ -38,7 +38,7 @@ The [JavaScript30](https://javascript30.com/) is for beginners and for intermedi
 
 JavaScript30 is entirely free, as well. Until this point, you have three excellent resources to skyrocket your JavaScript skills for free! You can also follow Wes Bos tutorial on his [YouTube channel](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH).
 
-> ![Javascript 30]()(https://cdn.hashnode.com/res/hashnode/image/upload/v1668269129332/wDoDn4ux-.PNG?auto=compress)
+> ![Javascript 30](https://cdn.hashnode.com/res/hashnode/image/upload/v1668269129332/wDoDn4ux-.PNG?auto=compress)
 
 ## MDN Web Docs JavaScript
 Given that [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is a top website, it cannot be left out of this article.
