@@ -75,8 +75,6 @@ The information is dense, and to the point. You can use the website as your prim
 ## Khan Academy
 This a nonprofit organization that provides a free, world-class coding education to everyone. [Khan Academy](https://www.khanacademy.org/computing/computer-programming/) is a good learning platform where you can find tutorials not only for computer programming but also for other subjects like math, arts, economics, and finance. It has a JavaScript tutorial that can help you work with DOM events with jQuery, used for making animations and effects on a webpage. As its motto states, “You can learn anything. For free. For everyone. Forever.”
 
-> ![Khan Academy](https://cdn.hashnode.com/res/hashnode/image/upload/v1668269215521/qmtGaz3p_.PNG?auto=compress)
-
 ## Codeacademy
 If Zero is a pure beginner and Hundred (100) is a professional developer, 20 hours of [Codeacademy](https://www.codecademy.com/learn/introduction-to-javascript/) JavaScript track will take you all the way to a 7. Codecademy’s step-by-step tutorial system is great for an introduction to programming in JavaScript. You will learn functions, loops, data structures, and many other data types. 
 
