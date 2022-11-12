@@ -12,9 +12,9 @@ However, once you dive into the advanced topics, you might have to supplement th
 
 **Many people got their first Junior Developer Job just going throug FreeCodeCamp.**
 
-Thus, you can get to an advanced level just by using the FreeCodeCamp platform and their YouTube channel.
+Thus, you can get to an advanced level just by using the FreeCodeCamp platform and their [YouTube channel](https://www.youtube.com/c/Freecodecamp).
 
-<YouTube id="jS4aFq5-91M" />
+> ![FreeCodeCamp Youtube Channel](https://cdn.hashnode.com/res/hashnode/image/upload/v1668268872775/5EBdZkOz4.PNG?auto=compress)
 
 ## You Don’t Know JavaScript
 
@@ -30,9 +30,9 @@ Practising by building application yourself is critical in programming. As a res
 
 The [JavaScript30](https://javascript30.com/) is for beginners and for intermediates. It is going to teach you the JavaScript fundamentals and how to work with the [Document Object Model (DOM)](https://www.w3schools.com/js/js\_htmldom.asp). Bear in mind; you should already have basic JavaScript knowledge before starting the course. The purpose of the course is to make you apply that knowledge.
 
-JavaScript30 is entirely free, as well. Until this point, you have three excellent resources to skyrocket your JavaScript skills for free! You can also follow this tutorial on his YouTube channel
+JavaScript30 is entirely free, as well. Until this point, you have three excellent resources to skyrocket your JavaScript skills for free! You can also follow Wes Bos tutorial on his [YouTube channel](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL\_VWetA865GOH).
 
-<YouTube id="VuN8qwZoego" />
+> ![Javascript 30](https://cdn.hashnode.com/res/hashnode/image/upload/v1668269129332/wDoDn4ux-.PNG?auto=compress)
 
 ## MDN Web Docs JavaScript
 
@@ -71,7 +71,7 @@ The information is dense, and to the point. You can use the website as your prim
 
 This a nonprofit organization that provides a free, world-class coding education to everyone. [Khan Academy](https://www.khanacademy.org/computing/computer-programming/) is a good learning platform where you can find tutorials not only for computer programming but also for other subjects like math, arts, economics, and finance. It has a JavaScript tutorial that can help you work with DOM events with jQuery, used for making animations and effects on a webpage. As its motto states, “You can learn anything. For free. For everyone. Forever.”
 
-<Image src="/images/khanacademy.jpg" width={800} height={358} />
+> ![Khan Academy](https://cdn.hashnode.com/res/hashnode/image/upload/v1668269215521/qmtGaz3p\_.PNG?auto=compress)
 
 ## Codeacademy
 
