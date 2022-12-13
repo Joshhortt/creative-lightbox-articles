@@ -60,7 +60,7 @@ Try to use examples where you went beyond your day role to take on extra respons
 
 _How did you handle this?_
 
-**Answer Tip:**
+<u>Answer Tip:</u>
 Describe your process for handling multiple tasks at the same time.
 
 ### 3. Describe a time when you faced difficulty or a stressful problem at work and how you solved it.
