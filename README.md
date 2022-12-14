@@ -1,5 +1,5 @@
 # Creative Lightbox Articles
-A Repository of all my published Blog posts
+A Repository of all my published Blog posts (Backups)
 #### By _**Josh Hortt**_
 version: 05/11/2022
 ## My Blog 🎧 🔊 | [Live Link](https://creativelightbox.net/)
