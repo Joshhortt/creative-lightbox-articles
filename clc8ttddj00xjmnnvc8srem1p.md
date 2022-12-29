@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The [DFINITY Foundation's Internet Computer](https://dfinity.org/foundation/) is reimagining how we work, relax, and socialize online. Empowered by blockchain technologies, this decentralized network aims to free us from Big Tech's constrictive proprietary hold on global information infrastructure. The Internet Computer is an inclusive, innovative, and genuinely democratic exchange of data, services, and ideas whose governance is of the people, by the people, and for the people.
+The [DFINITY Foundation's Internet Computer](https://dfinity.org/foundation/) is reimagining how we work, relax, and socialize online. Empowered by blockchain technologies, this decentralized network aims to free us from Big Tech's constrictive proprietary hold on global information infrastructure.
+
+**The Internet Computer is an inclusive, innovative, and genuinely democratic exchange of data, services, and ideas whose governance is of the people, by the people, and for the people.**
 
 The Internet Computer is a public blockchain that empowers online developers to eschew commercial cloud services, database servers, web servers, DNS services, firewalls, and all dependence on Big Tech's proprietary application programming services. Instead, developers are liberated to build and deploy secure, autonomous, and tamper-proof compute units called canisters, which can accomplish nearly anything imaginable. This includes, but is not limited to: tokenized Internet services, pan-industry platforms, DeFi and smart contracts, enterprise systems, and traditional websites.
 
@@ -14,25 +16,25 @@ The idea is to have a powerful, secure blockchain that's capable of running the 
 
 So everything from hosting, storage, and services—basically everything in one secure protocol.
 
-Now, back in 2019, when [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin), who's the founder of Ethereum, the person who first thought of and implemented these smart contracts, was talking at [2019 Unchained Live](https://youtu.be/k5uuFO8meNw/), he was asked this question:
+Now, back in 2019, when [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin), who's the founder of Ethereum, and the person who first thought of and implemented these smart contracts, was talking at [2019 Unchained Live](https://youtu.be/k5uuFO8meNw/), he was asked this question:
 
-**INTERVIEWER: 'What do you think is the biggest competitor to Ethereum today?'**
+**Interviewer:** 'What do you think is the biggest competitor to Ethereum today?**'**
 
 **And his answer was...**
 
-**VITALIKthat are:** [**Dfinity's**](https://dfinity.org/) **Internet computer.**
+**Vitalik:** [Dfinity's](https://dfinity.org/) Internet computer.
 
 And a part of the reason for that is that today's decentralized applications are only partially decentralized.
 
 They have a minimal amount of logic and data that are hosted on a secure blockchain.
 
-But the majority of the logic and the data is all hosted on large web2 companies.
+But the majority of the logic and the data is all hosted on large Web 2.0 companies.
 
 For example, using [Amazon's AWS](https://aws.amazon.com/) or [Microsoft Azure](https://azure.microsoft.com/) in order to host a lot of the data or using something like Chrome's browser extensions in order to connect a wallet and let users spend and earn tokens.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672233722728/3833cb7d-02f5-45da-b9e9-07d2cef1aa0d.png align="center")
 
-So if the majority of a dap is not on-chain, then it's not really decentralized and it doesn't have all of the benefits numbers that are offered by a truly decentralized application.
+So if the majority of a dapp is not on-chain, then it's not really decentralized and it doesn't have all of the benefits numbers that are offered by a truly decentralized application.
 
 So it means that any of these companies, Amazon, there are Microsoft, can actually shut down your project just by snapping their fingers.
 
@@ -48,7 +50,7 @@ So if we look at a day in data just to see how much data gets created in your bo
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672233839232/e23f1a8c-b85b-4966-84b5-2d955e60f4a3.png align="center")
 
-## How does the IC compare to its Web 3.0 competitors?
+## How does the Internet Computer compare to its Web 3.0 competitors?
 
 In addition to its groundbreaking use cases, security, governance, and ecological considerations, the Internet Computer vastly outperform other major blockchains on nearly every metric.
 
@@ -97,7 +99,7 @@ Lastly, to encourage participation in governance via the [network nervous system
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672234152645/fd7b343a-e079-40ed-a04b-c06352e78952.png align="center")
 
-For a full comparison of the Internet Computer to other major blockchains, check out Berto Parga Pena's article, "[*Internet Computer VS Other Top Blockchains: Competing To Build The Future*](https://www.dfinitycommunity.com/internet-computer-vs-layer-1-blockchains/)*"*. When comparing the Internet Computer to its competitors, the strengths of its cutting-edge technology are astounding!
+For a full comparison of the Internet Computer to other major blockchains, check out Berto Parga Pena's article, "[Internet Computer VS Other Top Blockchains: Competing To Build The Future](https://www.dfinitycommunity.com/internet-computer-vs-layer-1-blockchains/)". When comparing the Internet Computer to its competitors, the strengths of its cutting-edge technology are astounding!
 
 ## Why does the Internet Computer matter?
 
@@ -111,13 +113,13 @@ Indeed, the Internet computer represents a significant advancement in the develo
 
 What they mean is that prior ways of evaluating, building, and thinking about how to use blockchain technology are now incomplete and increasingly obsolete, thanks to the Internet Computer's astonishing architecture and capabilities.
 
-### The Internet Computer matters because:
+**The Internet Computer matters because:**
 
 1. [The Internet Computer is democratically governed by its network nervous system](https://www.dfinitycommunity.com/the-nns-dapp-a-brief-user-guide/), in which participants who have skin in the game via staked ICP shape the future of the Internet Computer.
     
 2. [The Internet Computer secures your digital identity](https://www.dfinitycommunity.com/how-to-create-your-internet-identity-easy-step-by-step-guide/) and activity against advertisers, hackers, and other malicious agents; also, no more proliferation of passwords across dozens of Web services!
     
-3. The Internet Computer reimagines smart contracts and software in a decentralized, integrated ecosystem that synchronizes services to best meet your needs.
+3. The Internet Computer reimagines [smart contracts](https://smartcontracts.org/) and software in a decentralized, integrated ecosystem that synchronizes services to best meet your needs.
     
 4. The Internet Computer's governance token, ICP, [presents an exciting new theoretical model of value](https://www.dfinitycommunity.com/why-icp-presents-a-better-theoretical-model/) that will complement Bitcoin by associating cryptocurrency with fiat currency's tokenization of utility, without the weaknesses of centralized administration.
     
