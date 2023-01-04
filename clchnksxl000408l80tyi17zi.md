@@ -1,8 +1,10 @@
 # How can we build DApps using the Internet computer?
 
+## Intro
+
 This is a step-by-step tutorial for Windows users to install, set up, and deploy a "Hello" DApp to the Internet Computer (IC) in 1 hour or less. Deployment of the DApp only requires basic knowledge of using a terminal. Before starting, take a look at a version of [this DApp running on-chain:](https://6lqbm-ryaaa-aaaai-qibsa-cai.ic0.app/)
 
-### 1\. Make sure that you got the correct system requirements
+#### 1\. Make sure that you got the correct system requirements
 
 So if you go into the start menu on Windows and search for system information, then you can see what Operating System version you're running.
 
