@@ -200,8 +200,7 @@ In this lab, you will get started with GitHub by creating a GitHub account and p
 
 **To create an account in GitHub, complete the following steps:**
 
-1 -  Go to the **Join GitHub page** and **signup** and **create an account**.
-    
+1 - Go to the **Join GitHub page** and **signup** and **create an account**.
 
 **Note:** If you already have a GitHub account, **log in** now.
 
@@ -210,12 +209,10 @@ In this lab, you will get started with GitHub by creating a GitHub account and p
 .
 
 2 - Provide the necessary details to create an account as shown below. (You’ll need to enter your email address and select a password, then choose a username and click Sign up for GitHub. When you have finished. Click **Create account**
-    
 
 ![Enter you Github details](https://cdn.hashnode.com/res/hashnode/image/upload/v1673346122634/kNOeNYiM6.png?auto=compress align="left")
 
 3 - Next, you’ll have a short test to prove that you’re a person. Click **Start puzzle**
-    
 
 ![Verify your account](https://cdn.hashnode.com/res/hashnode/image/upload/v1673346359985/TJ4KkLL2z.png?auto=compress align="left")
 
@@ -236,7 +233,6 @@ Now you're done! Click the button **Create account**
 ![Done - Create account](https://cdn.hashnode.com/res/hashnode/image/upload/v1673346790283/xGm-Ggi0m.png?auto=compress align="left")
 
 4 - Now GitHub asks some questions about your work, programming experience, and interests. You can skip these if you want. Click **Continue**
-    
 
 *How many team members will be working with you?*
 
@@ -247,7 +243,6 @@ Now you're done! Click the button **Create account**
 ![GitHub questions 2](https://cdn.hashnode.com/res/hashnode/image/upload/v1673347329933/AUA2reWAI.png?auto=compress align="left")
 
 5 - When you’re done, click **join a free plan**, and then you’ll be taken to a screen where you can select the type of account – most likely a free account personal account is all that you’ll want.
-    
 
 ![Join the free plan](https://cdn.hashnode.com/res/hashnode/image/upload/v1673347689541/mt6DqsEIk.png?auto=compress align="left")
 
@@ -260,71 +255,58 @@ After you Choose to set up a personal, free account, which is the default, **set
 **To add a new repository, complete the following steps:**
 
 6 - At the top right of the GitHub home page, click on the **blue dot** or the **“+” icon** and select **Your profile**.
-    
 
 **Note:** It's a good Idea to later on **edit your profile page** with more details about you.
 
 ![Go to your Profile page](https://cdn.hashnode.com/res/hashnode/image/upload/v1673360119478/enwNdXRUA.png?auto=compress align="left")
 
 7 - At the top right of the GitHub home page, click on the **“+” icon** and select **New repository**.
-    
 
 ![New Repo](https://cdn.hashnode.com/res/hashnode/image/upload/v1673364558678/R0jQWMs12.png?auto=compress align="left")
 
 8 - Enter a **repository name**. Optionally, add a **description** of your repository; choose the repository visibility - whether you want it to be **public** or **private**; and choose the option to **Initialize** this repository with **Readme file**. Then click **Create Repository**.
-    
 
 ![Create Repo](https://cdn.hashnode.com/res/hashnode/image/upload/v1673360406083/Vbk8MFruS.png?auto=compress align="left")
 
 9 - You will now be redirected to the repository you have created. The root folder of your repository is listed by default and it has just one file, the **README.md** file.
-    
 
 ### 3\. Create and edit a file
 
 10 - Now, it’s time to edit the **README file**. You can do this in your browser. Just **click the pencil** to open the online editor and you can change the text of the README file.
-    
 
 ![Edit README file](https://cdn.hashnode.com/res/hashnode/image/upload/v1673360507680/CovEPxwjq.png?auto=compress align="left")
 
 11 - To save your changes to the repository, you must commit them. After you have made your changes, scroll down to the Commit changes section. Add a commit message and optionally add a description, then click **Commit changes**.
-    
 
 ![commit changes](https://cdn.hashnode.com/res/hashnode/image/upload/v1673360614949/8I9a7SVP1.png?auto=compress align="left")
 
 12 - Go back to the **home screen** by clicking the **repository name link**.
-    
 
 **Note:** that the README file is updated and verify your changes.
 
 13 - Let’s learn how to create a new file using the built-in web editor provided by GitHub which runs in the browser. Click **Add File**, then click **Create New File** to create the new file.
-    
 
 ![Create new file](https://cdn.hashnode.com/res/hashnode/image/upload/v1673360795861/8A2d0Lp85.png?auto=compress align="left")
 
 14 - To create a HTML file called **firsthtml.html**. First, provide the file name. Next, **add a comment** that describes your code, then **add the Block of code**. Scroll to the bottom of the file and click **Commit changes** once finished.
-    
 
 ![Edit your new added file](https://cdn.hashnode.com/res/hashnode/image/upload/v1673364691926/HqPFXagEI.png?auto=compress align="left")
 
 15 - You can see that your file is now added to the repository and the repository listing shows when the file was added or changed.
-    
 
 ![Upload Files](https://cdn.hashnode.com/res/hashnode/image/upload/v1673364759838/M5mhekIwT.png?auto=compress align="left")
 
 ### 4\. Upload and commit a file
 
 16 - You can also upload a file from your local system into the repository. From the home screen of the repository, click **Add File**. Choose the **Upload files** option. Click **Choose Your Files** and select the files you want to upload from your local system.The file upload process may take a short time, depending on what you are uploading.
-    
 
 ![upload files from your local system](https://cdn.hashnode.com/res/hashnode/image/upload/v1673364802636/IWF5lEdBS.png?auto=compress align="left")
 
 17 - Click **Commit Changes**.
-    
 
 ![commit changes to uploaded file](https://cdn.hashnode.com/res/hashnode/image/upload/v1673364845079/FFcAY4M6E.png?auto=compress align="left")
 
 18 - Once the files finish uploading, The repository now reflects the files that were uploaded.
-    
 
 ![Confirm uploaded file](https://cdn.hashnode.com/res/hashnode/image/upload/v1673361220372/gey4XBFOl.png?auto=compress align="left")
 
@@ -334,25 +316,18 @@ Congratulations! In this article, you learned:
 
 * G​it is one of the most popular distributed version control systems. GitHub, GitLab and Bitbucket are examples of hosted version control systems.
     
-
 * Git is designed as a distributed version-control system. A Distributed Version Control System (DVCS) keeps track of changes to code, regardless of where it is stored. This allows multiple users to work on the same codebase or repository, mirroring the codebase on their own computers if needed, while the distributed version control software helps manage synchronization amongst the various codebase mirrors.
     
-
 * GitHub is the online hosting service for Git repositories.
     
-
 * Repositories store documents including application source code and enable contributors to track and maintain version-control and enable you to collaborate with others.
     
-
 * GitHub is primarily focused on tracking source code during development.
     
-
 * GitHub contains elements to coordinate among programmers, track changes, and support non-linear workflows.
     
-
 * You learned how to create and verify a GitHub account.
     
-
 * You learned how to create a repository, edit files, and commit changes using the web interface.
     
 
@@ -389,7 +364,7 @@ Download this Git commands [cheat sheet](https://phoenixnap.com/kb/wp-content/up
 
 ## What's Next?
 
-If you want to follow-along with more advanced stuff in the next article, I'll talk about **Branching** that are are the heart of workflows in Git-based version control systems like GitHub.
+If you want to follow along with more advanced stuff in the next article, I'll talk about [Merging & Branching](https://creativelightbox.net/how-to-get-started-with-branching-merging-using-github) that are the heart of workflows in Git-based version control systems like GitHub.
 
 You will become familiar with creating and using branches, and merging your changes to the main branch with Pull Requests.
 
