@@ -168,7 +168,7 @@ _2 -_ Click the clipboard icon to copy the URL. Make sure the `HTTPS` tab is act
 
 _3 -_ Let's export this URL in an environment variable so it's available for us to use in the later steps:
 ```bash
-        export ORIGIN=<your repository HTTPS URL>
+$ export ORIGIN=<your repository HTTPS URL>
 ```
 _4 -_ Open the terminal in the lab environment by using the menu in the editor: Terminal > New Terminal.
 
@@ -176,17 +176,17 @@ _4 -_ Open the terminal in the lab environment by using the menu in the editor: 
 
 _5 -_ Run the following command with the `HTTPS` URL you copied earlier:
 ```bash
-         git clone <your repository HTTPS URL>
+$ git clone <your repository HTTPS URL>
 ```
 ![12](https://cdn.hashnode.com/res/hashnode/image/upload/v1675166504760/NG8PFCgN-.png?auto=compress)
 
 _6 -_ Go into the `create-circle` directory by copying and pasting the `cd` command below:
 ```bash
-         cd create-circle
+$ cd create-circle
 ```
 _7 -_ Then copy and paste the `ls` command below to see what's inside your cloned directory
 ```bash
-         ls
+$ ls
 ```
 ![13](https://cdn.hashnode.com/res/hashnode/image/upload/v1675166592916/nBUzF11cP.png?auto=compress)
 
@@ -249,7 +249,7 @@ To commit your new file, complete the following steps:
 
 _1 -_ To move the changes from your working project directory to the staging area, type the following command in the Terminal window:
 ```bash
-         git add .
+$ git add .
 ```
 > The `git add` command has several options. The single `.` adds all untracked files in the current directory and subdirectories to the staging area. Alternatively, you can add the single file you created by using the `git add style.css` command. Finally, you can use `git add -A` to recursively add all files from the top level git folder.
 
@@ -261,20 +261,20 @@ _3 -_ Before you can commit your changes (if you haven't done it in the previous
 
 > Set your email:
 ```bash
-         git config --global user.email "email@example.com"
+$ git config --global user.email "email@example.com"
 ```
 > Set your name:
 ```bash
-         git config --global user.name "Your Name"
+$ git config --global user.name "Your Name"
 ```
 > To confirm type the following commands:
 ```bash
-         git config --list
+$ git config --list
 ```
 > This will be the output:
 ```bash
-           user.name=Your Name
-           user.email=youremail@domain.com
+$ user.name=Your Name
+$ user.email=youremail@domain.com
 ```         
 > This will be the output on your terminal:
 
@@ -284,7 +284,7 @@ _4 -_ Type the following command in the Terminal window to commit the file.
 
 > **Note**: It's always a good practice to add a description for the commit so you can remember what the change was if you have to refer to it later. We add a description using `-m`, followed by our message:
 ```bash
-           git commit -m "Changing the height and the width of the circle"
+$ git commit -m "Changing the height and the width of the circle"
 ```       
 ![21](https://cdn.hashnode.com/res/hashnode/image/upload/v1675167868121/epYVoDKa2.png?auto=compress)
 
@@ -300,7 +300,7 @@ _1 -_ Confirm that you are currently in the `feature-circle-500` branch.
 
 _2 -_ Check out the `main` branch
 ```bash
-            git checkout main
+$ git checkout main
 ```    
 > If you run the `git branch` again, you should see the `*` against the `main` branch.
 
@@ -308,7 +308,7 @@ _2 -_ Check out the `main` branch
 
 _3 -_ Merge the ``branch into `main`.
 ```bash
-            git merge feature-circle-500
+$ git merge feature-circle-500
 ```        
 ![24](https://cdn.hashnode.com/res/hashnode/image/upload/v1675168007806/-dBnRn3k9.png?auto=compress)
 
@@ -322,15 +322,15 @@ Since you are done making the change, let's delete the `feature-circle-500` bran
 
 _1 -_ Ensure you are on the `main` branch. If not, check it out first
 ```bash
-            git checkout main
+$ git checkout main
 ```   
 _2 -_ Delete the `feature-circle-500` branch
 ```bash
-            git branch -d feature-circle-500
+$ git branch -d feature-circle-500
 ```  
 _3 -_ You can confirm the branch was deleted by listing all branches
 ```bash
-            git branch
+$ git branch
 ```           
 ![26](https://cdn.hashnode.com/res/hashnode/image/upload/v1675168079513/hQYXgs8Jy.png?auto=compress)
 
@@ -342,7 +342,7 @@ To push your update to GitHub, complete the following steps:
 
 _1 -_ In the Terminal window, run the following command:
 ```bash
-             git push origin main
+$ git push origin main
 ```    
 > If your username and password were accepted, you should see the changes pushed to GitHub in the terminal.
 
@@ -396,11 +396,11 @@ _3 -_ As the [source repository owner](https://github.com/anacalvario), I should
 
 _1 -_ Create a new branch called `feature-add-color`.
 ```bash
-           git branch feature-add-color
+$ git branch feature-add-color
 ```      
 _2 -_ Make `feature-add-color` the active branch.
 ```bash
-           git checkout feature-add-color
+$ git checkout feature-add-color
 ``` 
 _3 -_ Add another css rule as follows:
 ```css
@@ -410,19 +410,19 @@ _3 -_ Add another css rule as follows:
 ``` 
 _4 -_ Stage this change.
 ```bash
-           git add -A
+$ git add -A
 ``` 
 _5 -_ Commit the changes in your `feature-add-color`.
 ```bash
-           git commit -sm 'adding red color feature'
+$ git commit -sm 'adding red color feature'
 ``` 
 _6 -_ Merge the changes in `feature-add-color` into `main`.
 ```bash
-           git checkout main && git merge feature-add-color
+$ git checkout main && git merge feature-add-color
 ``` 
 _7 -_ Delete the `feature-add-color` branch.
 ```bash
-           git branch -d feature-add-color
+$ git branch -d feature-add-color
 ```         
 _8 -_ Create a new pull request for this feature in the upstream repository using the GitHub UI.
 
