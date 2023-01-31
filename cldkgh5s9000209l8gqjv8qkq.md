@@ -404,9 +404,9 @@ $ git checkout feature-add-color
 ``` 
 _3 -_ Add another css rule as follows:
 ```css
-             .red {
-             background-color:red
-         }
+ .red {
+ background-color: red
+ }
 ``` 
 _4 -_ Stage this change.
 ```bash
