@@ -1,4 +1,14 @@
-# Why the JamStack is the future of Web Development
+---
+title: "Why the JamStack is the future of Web Development"
+seoDescription: "The JAMStack is a newer way to build secure, fast and cheaper websites, with better performance, security and scalability than the traditional approach."
+datePublished: Mon Oct 31 2022 16:42:42 GMT+0000 (Coordinated Universal Time)
+cuid: cl9x0etr301kfumnv2ev973gd
+slug: why-the-jamstack-is-the-future-of-web-development
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678556867371/d3e9c9da-074a-44bc-843e-01dbffa2d9de.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678556900224/f5587ada-b103-4556-a42f-60aec7883d47.png
+tags: apis, cms, nextjs, strapi, sanity
+
+---
 
 # What is JAMstack?
 The acronym JAM stands for JavaScript, APIs, and Markup. Now, all three of these technologies are used time and time again, there is not necessarily anything new about them. However, the way these established technologies are combined provides us with an innovative and modern way to build fast and reliable websites.
