@@ -280,6 +280,6 @@ Are you a fan of the Jamstack? Let me know in the comments what's your favorite 
 
 ## **What's Next?**
 
-If you want to follow along with more advanced stuff in the next article I'll talk about **Making Page content editable and making Git-based changes through the CloudCannon UI.**
+If you want to follow along with more advanced stuff in the next article I'll talk about [How to Configure cloudcannon collections to enable Post & Page content editing?](https://creativelightbox.net/how-to-configure-cloudcannon-collections-to-enable-post-page-content-editing).
 
 **Thanks for the read! Now go practice & build something awesome!**
