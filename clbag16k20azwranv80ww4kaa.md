@@ -14,7 +14,7 @@ Two experienced instructors teach this course: Barbara Oakley, Professor of Engi
 
 Here is my in-depth review of the course, with some tips and tricks to help anyone who's thinking about learning web development or any subject effectively.
 
-![16.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670164325751/WT0C8Bbea.png align="left")
+![16.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670164325751/WT0C8Bbea.png)
 
 One of the first things that caught my eye about the course is that over 3 million people worldwide have already enrolled.
 
@@ -30,16 +30,11 @@ Leon is an amazing Teacher, and I am extremely impressed with what he is sharing
 
 Someone who is:
 
-> *   Studying programming or any subject, no matter what
->     
-> *   Desiring to learn more effectively and efficiently
->     
-> *   Interesting in learning using spaced repetition and active recall
->     
-> *   Inquiring about the brain and sleep
->     
-> *   How to avoid procrastination
->     
+> - Studying programming or any subject, no matter what
+> - Desiring to learn more effectively and efficiently
+> - Interesting in learning using spaced repetition and active recall
+> - Inquiring about the brain and sleep
+> - How to avoid procrastination
 
 ### What can you expect upon enrolling?
 
@@ -49,14 +44,10 @@ You have four weeks to learn everything in this course before you may pass it.
 
 They are:
 
-> *   **Week 1** — What is Learning?
->     
-> *   **Week 2**— Chunking
->     
-> *   **Week 3** — Procrastination and Memory
->     
-> *   **Week 4** — Renaissance Learning and Unlocking Your Potential
->     
+> - **Week 1** — What is Learning?
+> - **Week 2**— Chunking
+> - **Week 3** — Procrastination and Memory
+> - **Week 4** — Renaissance Learning and Unlocking Your Potential
 
 The instructors, Dr. Terrence Sejnowski and Barbara Oakley will teach you the primary topic of the week as well as some learning strategies each week.
 
@@ -88,7 +79,7 @@ By practicing. Practice forms and makes these areas stronger, and the stronger t
 
 But here it might be interesting to compare the brain to the muscles in our body: an athlete can't practice 20 hours a day before a championship if he wants to build muscles. Not only because of physical exhaustion but because muscles need time: the resting time between one workout and another is as essential for strengthening muscles as the workout itself.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670168719220/ZWC-RLXbhf.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670168719220/ZWC-RLXbhf.png)
 
 The same is true for the brain: if a particular test requires, say, 10 hours of study, studying 10 hours the day before the test is insufficient - this usually results in a neural network, like the brick wall above, that will fall apart as soon as the test is handed in.
 
@@ -110,17 +101,17 @@ As referenced above the course breaks it down with the combination of two kinds 
 
 Learning happens at the crossover of these two kinds of thinking.
 
-![20.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670164391100/ZbA2vfs_V.png align="left")
+![20.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670164391100/ZbA2vfs_V.png)
 
-*You focus on something intently for some time and then take a break and let your thoughts diffuse.*
+_You focus on something intently for some time and then take a break and let your thoughts diffuse._
 
 How often have you been stuck on a problem and then thought of an answer in the shower or just while during a walk?
 
 This is an example of the two kinds of thinking at work. It doesn’t always happen consciously either.
 
-![21.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670164463114/whiLvj7mA.png align="left")
+![21.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670164463114/whiLvj7mA.png)
 
-*If the brain was a flashlight, focused thinking would be a single intense beam of light. And diffused thinking would be a wider but less intense beam.*
+_If the brain was a flashlight, focused thinking would be a single intense beam of light. And diffused thinking would be a wider but less intense beam._
 
 Have you ever not known what step to take next on an assignment, left it overnight, come back, and saw the solution immediately?
 
@@ -164,25 +155,25 @@ After two Pomodoros I had a more extended break of 40 minutes to go for a walk o
 
 Here is a great tool that I recommend using. It's called [Pomodoro Tracker](https://pomodoro-tracker.com/)
 
-![18.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670164979769/IAqHfs5YS.png align="left")
+![18.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670164979769/IAqHfs5YS.png)
 
 Here is a breakdown of  my typical 4 Pomodoros half-day study chunk:
 
 > 50-minutes studying.
-> 
+>
 > 10-minute break.
-> 
+>
 > 50-minutes studying.
-> 
+>
 > 40-minute break.
-> 
+>
 > 50-minutes studying.
-> 
+>
 > 10-minute break.
-> 
+>
 > 50-minutes studying.
 
-![19.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670165053515/ELq7nJend.png align="left")
+![19.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670165053515/ELq7nJend.png)
 
 After 4 hours I take a Longer Break for a meal, go for exercise, Shopping, or do something else that is enjoyable.
 
@@ -206,9 +197,9 @@ Being in focused mode is to brain cells what lifting weights are to muscles. You
 
 Sleep provides an opportunity for them to be repaired and for new connections to be formed.
 
-![17.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670165201794/hmEtnCllt.png align="left")
+![17.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670165201794/hmEtnCllt.png)
 
-*Dr. Terrence Sejnowski talks about how new synapses (connections) are formed on the dendrites during sleep.*
+_Dr. Terrence Sejnowski talks about how new synapses (connections) are formed on the dendrites during sleep._
 
 Think about it, there’s a reason famous thinkers like Einstein and Dali and others would sleep for 10 hours at a time and tap multiple naps a day.
 
@@ -256,10 +247,8 @@ If you were starting to learn to program, it would be unwise to try and learn an
 
 **Deliberate practice:** Forming a chunk is hard.
 
-*   First of all, what are the important concepts to learn?
-    
-*   Second, where should you apply them?
-    
+- First of all, what are the important concepts to learn?
+- Second, where should you apply them?
 
 This is exactly why you should spend time and effort trying to create them. Instead of learning every intricate detail, seek out what the major concepts are. Figure out how to apply them by testing yourself. Work through example problems.
 
@@ -281,7 +270,7 @@ The danger of becoming an expert in something is losing the ability to think lik
 
 If you’re learning something new, especially if it’s the first time in a while, it’s important to be mindful of Einstellung. Have an open mind and don’t be afraid of asking stupid questions.
 
-***“After all, the only stupid question is the one that doesn’t get asked”***
+**_“After all, the only stupid question is the one that doesn’t get asked”_**
 
 **Recall** — what did you just learn?
 
@@ -326,11 +315,11 @@ Above we talked about combating procrastination with a timer. But how do you app
 ### Learning How to Learn course breaks habits into 4 parts.
 
 > **The cue** — an event that triggers the next three steps. We’ll use the example of your phone going off.
-> 
+>
 > **The routine** — what happens when you’re triggered by the cue. In the phone example, you check your phone.
-> 
+>
 > **The reward** — the good feeling you get for following the routine. Checking your phone, you see a message from a friend, this feels good.
-> 
+>
 > **The belief** — the thoughts which reinforce the habit.
 
 You realize you checked your phone, and now you think to yourself, ‘I’m a person who easily gets distracted.’
@@ -383,9 +372,9 @@ Worrying about what a bestselling book would have in it would consume you.
 
 Dr. Oakley says we’ve got space for about four things in working memory. But if you’re like me, it’s probably closer to one.
 
-![22.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670165645824/uk2NiOhIu.png align="left")
+![22.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670165645824/uk2NiOhIu.png)
 
-*Writing a task down free’s up a slot in your working memory.*
+_Writing a task down free’s up a slot in your working memory._
 
 Some of the people I work with have three monitors with things happening on all of them, I’m not sure how they do it. I stick to one and push it to two when a task requires it.
 
@@ -425,9 +414,9 @@ This was just an example of what many folks do every single day on the internet.
 
 Learning looks more like a broken staircase than a straight line.
 
-![23.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670165721871/xDrUumPCS.png align="left")
+![23.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670165721871/xDrUumPCS.png)
 
-*Sometimes you’ll go in circles, other times it’ll feel like you’re in decline, then somehow you’ll start heading in the right direction (at least it seems that way).*
+_Sometimes you’ll go in circles, other times it’ll feel like you’re in decline, then somehow you’ll start heading in the right direction (at least it seems that way)._
 
 ### Geniuses were mostly college dropouts
 
@@ -507,30 +496,18 @@ So, it's time now to cut directly to one of the final features of this amazing c
 
 #### The Checklist
 
-> *   Did you make a serious effort to understand the text?
->     
-> *   Did you work with classmates on homework problems?
->     
-> *   Did you attempt to outline each homework question before discussing it with classmates?
->     
-> *   Did you participate actively in homework group discussions?
->     
-> *   Did you consult with the instructor/teaching assistants when you were having trouble?
->     
-> *   Did you understand all of your homework problem solutions before the assignment was handed in?
->     
-> *   Did you ask in class for explanations of homework problems that were unclear to you?
->     
-> *   If you had a study guide, did you carefully go through it before the test, and did you understand all of the material?
->     
-> *   Did you attempt to outline lots of problem solutions quickly without spending time doing the algebra?
->     
-> *   Did you go over the study guide and problems with classmates and quiz one another?
->     
-> *   If there was a review session, did you attend & ask questions about any concepts or ideas that you were unsure of?
->     
-> *   Did you get a reasonable night’s sleep before the test?
->     
+> - Did you make a serious effort to understand the text?
+> - Did you work with classmates on homework problems?
+> - Did you attempt to outline each homework question before discussing it with classmates?
+> - Did you participate actively in homework group discussions?
+> - Did you consult with the instructor/teaching assistants when you were having trouble?
+> - Did you understand all of your homework problem solutions before the assignment was handed in?
+> - Did you ask in class for explanations of homework problems that were unclear to you?
+> - If you had a study guide, did you carefully go through it before the test, and did you understand all of the material?
+> - Did you attempt to outline lots of problem solutions quickly without spending time doing the algebra?
+> - Did you go over the study guide and problems with classmates and quiz one another?
+> - If there was a review session, did you attend & ask questions about any concepts or ideas that you were unsure of?
+> - Did you get a reasonable night’s sleep before the test?
 
 ## Conclusion
 
@@ -544,6 +521,6 @@ The things I’ve mentioned in this article are only scratching the surface of w
 
 If you want to dig deeper, I highly recommend checking out the full Learning How to Learn course. I didn’t pay for the certificate, I went through the audit track. You can access all the materials for free. However, I find that I would get much more out of the course If I went through the paid track. And the information in this course is worth paying for. But like I said You don’t need to.
 
-> "Children have a lesson adults should learn, to not be ashamed of failing, but to get up and try again. Most of us adults are so afraid, so cautious, so 'safe,' and therefore so shrinking and rigid and afraid that it is why so many humans fail. Most middle-aged adults have resigned themselves to failure." ― *Malcolm X*
+> "Children have a lesson adults should learn, to not be ashamed of failing, but to get up and try again. Most of us adults are so afraid, so cautious, so 'safe,' and therefore so shrinking and rigid and afraid that it is why so many humans fail. Most middle-aged adults have resigned themselves to failure." ― _Malcolm X_
 
 Always Keep learning!
