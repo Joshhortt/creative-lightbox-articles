@@ -233,7 +233,7 @@ First to see this in action we'll open up our **Dev tools** -when we are on the 
 
 Next under the **Network Tab** we have a option that says **Slow 3G**. We select that option to see the Loading state just changing more slowly.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682503026721/e2923c52-0a76-4d6e-ab43-61d2c7f03366.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682582861082/xurDyI3rr.png?auto=format align="left")
 
 Finally, we **minimize** the **Dev tools** then we'll go to the home page first and remember the home page doesn't have a loading state -go to the **about page** to see the loading message we did just briefly.
 
