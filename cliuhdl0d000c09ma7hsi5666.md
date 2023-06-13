@@ -18,7 +18,7 @@ Neste curto artigo, iremos apresentar um tutorial passo a passo de como adiciona
 
 #### Objetivos
 
-Depos de completar este tutorial, irá saber:
+Depois de completar este tutorial, irá saber:
 
 * Aceder a plataforma Cloudcannon
     
@@ -40,11 +40,11 @@ Depos de completar este tutorial, irá saber:
 
 ### Passo 1: Entendendo o Editor Visual do CloudCannon
 
-Primeiramente, é importante entender que o editor visual do CloudCannon é uma ferramenta poderosa, que permite a criação de conteúdo sem precisar escrever código. Ele é baseado em blocos, o que permite a inserção de diferentes tipos de conteúdo em uma única página.
+Primeiramente, é importante entender que o editor visual do Cloudcannon é uma ferramenta poderosa, que permite a criação de conteúdo sem precisar escrever código. Ele é baseado em blocos, o que permite a inserção de diferentes tipos de conteúdo em uma única página.
 
 Para acessar a página principal do cloudcannon vá a [cloudcannon.com](https://cloudcannon.com/). Caso não esteja registado faça o registo primeiro.
 
-**1 -** Para acessar o Painel, você precisa primeiro fazer login no CloudCannon. Clique no Botão no canto superior direito on diz **Entrar**
+**1 -** Para acessar o Painel, você precisa primeiro fazer login no Cloudcannon. Clique no Botão no canto superior direito onde diz **Entrar**
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686671703761/9f3654ba-4237-4776-8be7-e8b45a474163.png align="left")
 
@@ -52,7 +52,7 @@ Para acessar a página principal do cloudcannon vá a [cloudcannon.com](https://
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686671720132/251d833d-9a71-45f2-a57c-c0b4646c1d6c.png align="left")
 
-**3 -** Clique e introduza os seus dados de **E-mail** e a sua **Password** de acesso, depois clique no botão azul **Entar**.
+**3 -** Clique e introduza os seus dados de **E-mail** e a sua **Password** de acesso, depois clique no botão azul **Entrar**.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686671732843/7bfc4a3c-f215-4a01-80ba-2f2530160838.png align="left")
 
@@ -68,7 +68,7 @@ Para acessar a página principal do cloudcannon vá a [cloudcannon.com](https://
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686671783326/6568cb9f-2539-40b6-b3a5-6d0f5314c727.png align="left")
 
-**7 -** Agora na Barra de Menu ao lado esquerdo em **Blogging**, deve clicar sobre **Posts** para visonar todos os artigos que o seu site tem publicados.
+**7 -** Agora na Barra de Menu ao lado esquerdo em **Blogging**, deve clicar sobre **Posts** para visionar todos os artigos que o seu site tem publicados.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686671795551/d818102f-8e48-4f44-9817-d6a30c856463.png align="left")
 
@@ -102,7 +102,7 @@ Para acessar a página principal do cloudcannon vá a [cloudcannon.com](https://
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686671873214/3eb9611d-bcc2-4c2e-ac7d-c06c2f8ba4a3.png align="left")
 
-> Nota: Depois de Confirmar o Site irá atualizar-se automáticamente em menos de um minuto. Basta aguardar!
+> Nota: Depois de Confirmar o Site irá atualizar-se automaticamente em menos de um minuto. Basta aguardar!
 
 **7 -** Agora vá a URL do seu [site](https://evaristoamaro.pt) para poder visionar se de facto o artigo se encontra bem publicado.
 
@@ -126,4 +126,4 @@ Por fim, para publicar um artigo, você precisa selecionar a opção **Publicar*
 
 ## Conclusão
 
-O editor visual da CloudCannon é uma ferramenta poderosa que torna a criação, edição e publicação de conteúdo mais fácil do que nunca. Com as instruções acima, esperamos que você possa agora adicionar, editar, apagar e publicar um artigo utilizando o editor visual do CloudCannon.com. Aproveite para explorar todos os recursos da plataforma e publique artigos incríveis no seu um site!
+O editor visual da Cloudcannon é uma ferramenta poderosa que torna a criação, edição e publicação de conteúdo mais fácil do que nunca. Com as instruções acima, esperamos que você possa agora adicionar, editar, apagar e publicar um artigo utilizando o editor visual do CloudCannon.com. Aproveite para explorar todos os recursos da plataforma e publique artigos incríveis no seu um site!
