@@ -10,11 +10,13 @@ tags: tutorial, blogging, cms, posts, cloudcannon
 
 ---
 
-# Como Publicar os seus artigos no Cloudcannon?
+## 5 Passos simples para publicar os seus artigos
 
-**Aprenda a criar, editar, apagar e publicar seus artigos facilmente com o CloudCannon: Tutorial Passo a Passo!**
+CloudCannon é uma plataforma de gestão de conteúdo destinada a criar, atualizar e publicar sites de forma rápida e fácil. Além disso, ela oferece uma ampla gama de recursos que permitem a edição de conteúdo por meio de um editor visual, sem precisar escrever código.
 
-### Objetivos
+Neste curto artigo, iremos apresentar um tutorial passo a passo de como adicionar, editar, apagar e publicar um artigo utilizando o editor visual em CloudCannon.com.
+
+#### Objetivos
 
 Depos de completar este tutorial, irá saber:
 
@@ -30,18 +32,11 @@ Depos de completar este tutorial, irá saber:
     
 * Editar um artigo
     
-* Adcionar, remover e editar uma Imagem de artigo
+* Adicionar, remover e editar uma Imagem de artigo
     
 * Apagar um artigo
     
 * Publicar um artigo
-    
-
-## 5 Passos simples para publicar os seus artigos
-
-CloudCannon é uma plataforma de gestão de conteúdo destinada a criar, atualizar e publicar sites de forma rápida e fácil. Além disso, ela oferece uma ampla gama de recursos que permitem a edição de conteúdo por meio de um editor visual, sem precisar escrever código.
-
-Neste curto artigo, iremos apresentar um tutorial passo a passo de como adicionar, editar, apagar e publicar um artigo utilizando o editor visual em CloudCannon.com.
 
 ### Passo 1: Entendendo o Editor Visual do CloudCannon
 
